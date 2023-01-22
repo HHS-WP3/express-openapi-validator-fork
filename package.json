@@ -1,5 +1,5 @@
 {
-  "name": "@dlbrt/express-openapi-validator",
+  "name": "@testm8434/express-openapi-validator",
   "version": "6.0.1",
   "description": "Automatically validate API requests and responses with OpenAPI 3 and Express.",
   "main": "dist/index.js",
