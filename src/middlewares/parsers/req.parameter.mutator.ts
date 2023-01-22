@@ -16,7 +16,7 @@ type SchemaObject = OpenAPIV3.SchemaObject;
 type ReferenceObject = OpenAPIV3.ReferenceObject;
 type ParameterObject = OpenAPIV3.ParameterObject;
 
-const RESERVED_CHARS = /[\:\/\?#\[\]@!\$&\'()\*\+,;=]/;
+const RESERVED_CHARS = /[\:\/\?#\[\]@!\$&\'()\+,;=]/;
 
 const ARRAY_DELIMITER = {
   simple: ',',
